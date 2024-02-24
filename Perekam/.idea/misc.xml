@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ENDAH/AndroidStudioProjects/Perekam/app/src/main/res/drawable/round_btn.xml" value="0.1" />
+        <entry key="..\:/Users/ENDAH/AndroidStudioProjects/Perekam/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ENDAH/AndroidStudioProjects/Perekam/app/src/main/res/layout/fragment_recorder.xml" value="0.1921875" />
+        <entry key="..\:/Users/ENDAH/AndroidStudioProjects/Perekam/app/src/main/res/layout/fragment_recordings.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

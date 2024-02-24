@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ferdilan Ramadhani</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        <b>Upaya Mempertebal Iman</b>\n
+        \n<i>Upaya Memiringkan Harga Sembako</i>\n
+        \n<u>Perlu Digaris Bawahi</u>\n
+        \n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cum debitis eum eveniet explicabo, facere fugiat id iste iure maxime nostrum, perspiciatis quas qui quos recusandae, sunt temporibus vitae.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At commodi deleniti itaque laboriosam nobis possimus quaerat quis, reiciendis. Accusantium aut consequuntur dolore error exercitationem facere nam repellendus similique tempore ullam.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, quibusdam sint. Illum nemo odio odit quis repellat totam voluptatum. A accusamus adipisci dolorem eum numquam qui rerum vel? Corporis, inventore?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aut autem blanditiis commodi, cumque dignissimos dolore dolores ex excepturi impedit inventore ipsam maiores, necessitatibus, nulla quae quisquam recusandae veritatis voluptas!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi cumque earum illo officia possimus quo repudiandae saepe sequi velit voluptate? Ab consequatur corporis doloremque in ipsam laborum nobis quo, temporibus!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque nesciunt, odio pariatur sunt ullam veniam? Aut enim eveniet fugiat natus nostrum similique sit tempore? Cum dignissimos eveniet nam quae voluptas!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam atque consequuntur exercitationem ipsa molestiae ratione! Commodi deserunt, dignissimos ea, eligendi facilis iusto laborum numquam perferendis possimus quas quasi, quisquam totam?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias atque aut autem beatae, consectetur, consequuntur enim est eveniet illo incidunt minus molestiae nisi nulla numquam officia praesentium quis sunt temporibus.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque enim excepturi repudiandae voluptatum. Aspernatur at dignissimos dolor eius ex explicabo harum, illo, ipsam iusto laudantium, magnam minima quisquam rem. Vitae.
+    </string>
+    <string name="yourname"> Siapa Namamu?</string>
+    <string name="done"> Selesai </string>
+</resources>
